@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
 /**
- *
- * @author aaron
+ * @author Aaron Mullan
+ * Email: aaron.mullan213@gmail.com
+ * GitHub: github.com/aaronjmullan
+ * LinkedIn: https://www.linkedin.com/in/aaron-mullan-b40310163/
  */
 public class Fibonacci_Sequence {
     
